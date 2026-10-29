@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=200&section=header&text=Nidhi%20Dev&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineering%20%7C%20Building%20Intelligent%20Solutions&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=200&section=header&text=Nidhi%20Dev&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20AI/ML%20Engineering%20%7C%20Building%20Intelligent%20Solutions&descSize=16&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Exploring+ML%2C+NLP+%26+Data+Analytics;Turning+Ideas+Into+Practical+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated typing introduction" />
