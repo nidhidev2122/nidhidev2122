@@ -23,17 +23,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Hi! I'm **Nidhi**, a final-year BCA student specializing in **Artificial Intelligence and Machine Learning** at Alliance University, Bengaluru.
 
 I'm interested in building intelligent applications that connect machine learning, data, and software development to solve practical problems.
 
-- 🧠 Exploring Machine Learning, NLP, and Generative AI.
-- 🐍 Strengthening my Python, problem-solving, and DSA fundamentals.
-- 📊 Interested in data analytics, predictive modelling, and AI-powered applications.
-- 🛠️ Building projects that combine analytical thinking with practical software solutions.
-- 🤝 Enjoy collaborating with teams, sharing ideas, and learning by building.
+- Exploring Machine Learning, NLP, and Generative AI.
+- Strengthening my Python, problem-solving, and DSA fundamentals.
+- Interested in data analytics, predictive modelling, and AI-powered applications.
+- Building projects that combine analytical thinking with practical software solutions.
+- Enjoy collaborating with teams, sharing ideas, and learning by building.
 
 **Current focus:** Strengthening my engineering fundamentals and developing meaningful AI/ML projects.
 
