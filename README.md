@@ -48,12 +48,12 @@ BCA student focused on Artificial Intelligence and Machine Learning, interested 
 ## Featured Projects
 
 <p>
-<a href="https://github.com/nidhidev2122/Namma-Electricity">
-<img alt="Namma Electricity" src="https://github-readme-stats.vercel.app/api/pin/?username=nidhidev2122&repo=Namma-Electricity&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6&hide_border=true" />
-</a>
-<a href="https://github.com/nidhidev2122/kheti-sahayak">
-<img alt="Kheti Sahayak" src="https://github-readme-stats.vercel.app/api/pin/?username=nidhidev2122&repo=kheti-sahayak&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6&hide_border=true" />
-</a>
+  <a href="https://github.com/nidhidev2122/Namma-Electricity">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=nidhidev2122&repo=Namma-Electricity&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6&hide_border=true" />
+  </a>
+  <a href="https://github.com/nidhidev2122/kheti-sahayak">
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=nidhidev2122&repo=kheti-sahayak&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6&hide_border=true" />
+  </a>
 </p>
 
 | Project | Description | Built with | Links |
@@ -63,23 +63,13 @@ BCA student focused on Artificial Intelligence and Machine Learning, interested 
 | **FIXIO** | Web application project | Web Technologies | [Live ](https://fixio-gilt.vercel.app/) / [Code](https://github.com/nidhidev2122/FIXIO) |
 | **Medix** | Healthcare-focused application | Streamlit | [Live ](https://medix212.streamlit.app/) / [Code](https://github.com/nidhidev2122/Medix) |
 
+
 ## GitHub Stats
 
 <p align="center">
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nidhidev2122&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhidev2122&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+ <img height="170" src="https://github-stats-extended.vercel.app/api?username=nidhidev2122&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" /><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nidhidev2122&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </p>
 
-<p align="center">
-<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nidhidev2122&theme=dark&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
-</p>
-
-<!-- Snake animation: requires the snake.yml GitHub Actions workflow -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nidhidev2122/nidhidev2122/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nidhidev2122/nidhidev2122/output/github-snake.svg" />
-<img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/nidhidev2122/nidhidev2122/output/github-snake.svg" />
-</picture>
 
 ## Certifications
 
