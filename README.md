@@ -1,7 +1,5 @@
- <div align="center">
 
 <img width="100%" alt="Nidhi Dev" src="https://capsule-render.vercel.app/api?type=waving&color=4B238A&height=170&section=header&text=Nidhi%20Dev&fontSize=46&fontColor=ffffff" />
-
 <p align="center">
 <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=AI%2FML+Engineer+%7C+Generative+AI;Machine+Learning+%7C+Python+%7C+LLMs;Building+Intelligent+Real-World+Applications" />
 </p>
@@ -62,8 +60,8 @@ BCA student focused on Artificial Intelligence and Machine Learning, interested 
 |---|---|---|---|
 | **Namma Electricity** | Electricity estimates and insights application with frontend-backend integration | Python, FastAPI, React, TypeScript, PostgreSQL, Supabase, Pandas, NumPy | [Live](https://namma-electricity.vercel.app/) / [Code](https://github.com/nidhidev2122/Namma-Electricity) |
 | **Kheti Sahayak** | Agriculture-focused application featuring an AI chatbot with NVIDIA API integration | TypeScript, Generative AI, NVIDIA API | [Live](https://kheti-sahayak.netlify.app/) / [Code](https://github.com/nidhidev2122/kheti-sahayak) |
-| **FIXIO** | Web application project | Web Technologies | [Live Demo](https://fixio-gilt.vercel.app/) |
-| **Medix** | Healthcare-focused application | Streamlit | [Live Demo](https://medix212.streamlit.app/) |
+| **FIXIO** | Web application project | Web Technologies | [Live ](https://fixio-gilt.vercel.app/) / [Code](https://github.com/nidhidev2122/FIXIO) |
+| **Medix** | Healthcare-focused application | Streamlit | [Live ](https://medix212.streamlit.app/) / [Code](https://github.com/nidhidev2122/Medix) |
 
 ## GitHub Stats
 
